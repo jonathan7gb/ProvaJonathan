@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Monitor Produção</string>
+
+    <string name="titulo_monitoramento">Monitoramento de Linha</string>
+    <string name="hint_operador">Nome do operador</string>
+    <string name="hint_linha">Identificação da linha</string>
+    <string name="contador_inicial">Peças: 0</string>
+    <string name="contador_valor">Peças: %1$d</string>
+
+    <string name="btn_iniciar">Iniciar Produção</string>
+    <string name="btn_registrar">Registrar Peça</string>
+    <string name="btn_finalizar">Finalizar Produção</string>
+    <string name="btn_voltar">Voltar</string>
+
+    <string name="erro_campos_vazios">Preencha operador e linha antes de iniciar.</string>
+    <string name="erro_nao_iniciado">Inicie a produção antes de finalizar.</string>
+
+    <string name="titulo_relatorio">Relatório Estatístico OEE</string>
+    <string name="relatorio_conteudo">Operador: %1$s\n\nLinha: %2$s\n\nQuantidade de peças: %3$d\n\nTempo total: %4$s\n\nTakt time (tempo médio): %5$s segundos</string>
+</resources>
